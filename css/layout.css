@@ -25,3 +25,19 @@
 /* Posititoning Classes */
 
 
+
+.border_right {
+  float: right;
+  width: 32%;
+}
+
+.border_left{
+  float: left;
+  width: 32%;
+}
+
+.border_middle{
+  float: middle;
+  width: 32;
+
+}
